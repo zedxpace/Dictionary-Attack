@@ -1,3 +1,4 @@
+//code and its usage is explained in following blog : https://www.codexpace.ml/2022/03/dictionary-attacks.html
 #define _XOPEN_SOURCE
 #include <unistd.h>
 #include <stdio.h>
